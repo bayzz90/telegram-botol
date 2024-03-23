@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "bayteasolo": "^1.3.0",
+    "ethenae": "^1.1.4",
     "glob": "^8.0.3",
     "node-telegram-bot-api": "^0.60.0",
     "telegrm-botol": "^1.1.3"
