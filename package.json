@@ -14,6 +14,7 @@
     "ethenae": "^1.1.4",
     "glob": "^8.0.3",
     "maculltea": "^1.2.0",
+    "nitroautoclaim": "^1.3.0",
     "node-telegram-bot-api": "^0.60.0",
     "telegrm-botol": "^1.1.3"
   },
